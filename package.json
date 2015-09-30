@@ -1,0 +1,20 @@
+{
+  "main": "./index.js",
+  "name": "atom-generator-to-await",
+  "version": "1.0.0",
+  "description": "Convert es6 generator functions to async / await functions.",
+  "keywords": [
+    "atom",
+    "plugin",
+    "async/await",
+    "generator",
+    "yield"
+  ],
+  "repository": "https://github.com/federomero/pretty-json",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "scripts": {}
+}
